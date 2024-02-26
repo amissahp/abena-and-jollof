@@ -17,9 +17,8 @@ Welcome to our collaborative web story project!
 ## Navigation
 
 Navigate through the story by selecting the hyperlinked options at the end of each chapter.
+https://github.com/amissahp/abena-and-jollof/blob/feature/chapter-2/chapter1-abena-nyash-jollof.md
 
-- [Chapter 1](./chapter-1.md)
-- [Chapter 2](./chapter-2.md)
 - [Chapter 3](./chapter-3.md)
 
 ...
